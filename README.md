@@ -1,91 +1,43 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050505,45:1a0000,75:5c0000,100:DC143C&height=230&section=header&text=ETERNAL-J29&fontSize=58&fontColor=ffffff&fontAlignY=38&desc=ARTIFICIAL%20INTELLIGENCE%20%7C%20PYTHON%20%7C%20MACHINE%20LEARNING&descAlignY=60&descSize=16&animation=fadeIn"/>
+<img src="./assets/dismantle_intro.gif" alt="Animated crimson slash intro" width="100%">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=2600&pause=900&color=DC143C&center=true&vCenter=true&width=750&lines=Artificial+Intelligence+Student;Python+Developer+in+Progress;Learning+Machine+Learning;Building+%7C+Breaking+%7C+Rebuilding;DISMANTLE.+CLEAVE.+FUGA."/>
-
-<br><br>
-
-<img src="https://img.shields.io/badge/AI-050505?style=for-the-badge&logo=openai&logoColor=DC143C"/>
-<img src="https://img.shields.io/badge/PYTHON-050505?style=for-the-badge&logo=python&logoColor=DC143C"/>
-<img src="https://img.shields.io/badge/MACHINE%20LEARNING-050505?style=for-the-badge&logo=tensorflow&logoColor=DC143C"/>
-<img src="https://img.shields.io/badge/GITHUB-050505?style=for-the-badge&logo=github&logoColor=FFFFFF"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2600&pause=900&color=DC143C&center=true&vCenter=true&width=760&lines=Artificial+Intelligence+Student;Python+Developer+in+Progress;Machine+Learning+%7C+Data+%7C+Intelligent+Systems;Building+practical+software+from+first+principles"/>
 
 </div>
 
 ---
 
-<div align="center">
+## About
 
-## ⚔️ 「 DISMANTLE 」
+I am an **Artificial Intelligence student** developing a strong foundation in software engineering, Python, machine learning and data-driven systems.
 
-### *Break the problem down.*
+My approach is simple: understand the fundamentals, build consistently, analyse what fails, and improve the system.
 
-</div>
+I am particularly interested in how intelligent software can turn data, computation and well-designed algorithms into useful products.
 
-### 👋 About Me
+<img src="./assets/crimson_slash_divider.gif" alt="Animated crimson divider" width="100%">
 
-I'm an **Artificial Intelligence student** focused on building a strong foundation in programming, artificial intelligence, machine learning and software development.
+## Technical Focus
 
-I enjoy taking complex problems, breaking them into smaller components, understanding how they work, and turning that knowledge into practical software.
+**Programming**
+- Python and core programming principles
+- Algorithms and problem solving
+- Object-oriented design
+- Git and GitHub workflows
 
-I'm currently focused on improving my programming ability through consistent practice and real projects.
+**Artificial Intelligence**
+- AI fundamentals
+- Machine learning
+- Data analysis and modelling
+- Neural networks
+- Cloud-based AI systems
 
-```text
-╔══════════════════════════════════════════════════════════════╗
-║                                                              ║
-║                     ETERNAL-J29                              ║
-║                                                              ║
-║        Artificial Intelligence • Python • Technology         ║
-║                                                              ║
-║        Learn → Build → Break → Understand → Improve          ║
-║                                                              ║
-╚══════════════════════════════════════════════════════════════╝
-```
-
----
-
-<div align="center">
-
-## 🩸 「 CLEAVE 」
-
-### *Adapt to the problem.*
-
-</div>
-
-### 💻 Technical Focus
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 🐍 Programming
-
-- Python
-- Programming Fundamentals
-- Algorithms
-- Problem Solving
-- Object-Oriented Programming
-- Git & GitHub
-
-</td>
-
-<td width="50%" valign="top">
-
-### 🤖 Artificial Intelligence
-
-- Artificial Intelligence
-- Machine Learning
-- Data Science
-- AI Systems
-- Neural Networks
-- Cloud AI
-
-</td>
-</tr>
-</table>
-
-<br>
+**Development**
+- Building practical desktop and automation tools
+- Designing maintainable software
+- Experimenting with AI-assisted development
+- Turning ideas into working prototypes
 
 <div align="center">
 
@@ -97,101 +49,39 @@ I'm currently focused on improving my programming ability through consistent pra
 
 <div align="center">
 
-## 🔥 「 F U G A 」
-
-### *Ignite the idea.*
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:050505,40:300000,70:8B0000,100:FF2400&height=120&section=header&text=F%20U%20G%20A&fontSize=48&fontColor=FFFFFF&animation=fadeIn"/>
+<img src="./assets/fuga_burn.gif" alt="Animated FUGA-inspired burn reveal" width="100%">
 
 </div>
 
-```python
-class Eternal:
+## Current Direction
 
-    def __init__(self):
-        self.focus = "Artificial Intelligence"
-        self.language = "Python"
-        self.goal = "Build meaningful systems"
+I am focused on progressing from programming fundamentals toward **production-minded AI development**.
 
-    def evolve(self):
-        while True:
-            self.learn()
-            self.build()
-            self.fail()
-            self.analyse()
-            self.improve()
+My priorities are:
 
-    def learn(self):
-        pass
-
-    def build(self):
-        pass
-
-    def fail(self):
-        pass
-
-    def analyse(self):
-        pass
-
-    def improve(self):
-        pass
-```
-
-<div align="center">
-
-> **"The goal isn't to know everything.  
-> The goal is to become better at learning anything."**
-
-</div>
+- Strengthen Python and software engineering fundamentals
+- Build a rigorous understanding of AI and machine learning
+- Develop projects that demonstrate practical problem solving
+- Learn how data, models and software systems work together
+- Build a portfolio that reflects continuous technical growth
 
 ---
 
-## 🚀 Current Projects
+## Selected Work
 
-<div align="center">
-
-| Project | Description | Status |
-|:---:|:---|:---:|
-| 🐍 **Python Projects** | Programming exercises and applications | 🟢 Active |
-| 🤖 **AI Projects** | Artificial intelligence experiments | 🟡 Learning |
-| 🧠 **Machine Learning** | Learning models and data-driven systems | 🟡 Learning |
-| 🎮 **Automation** | Building tools to automate workflows | 🟡 Developing |
-| ⚔️ **Shrine Knowledge** | Gamified personal learning system | 🟡 Developing |
-
-</div>
+| Area | Focus |
+|---|---|
+| Python | Programming exercises, applications and automation |
+| Artificial Intelligence | Intelligent systems and AI experiments |
+| Machine Learning | Models, data and prediction |
+| Automation | Tools that reduce repetitive workflows |
+| Learning Systems | Software that makes technical learning more engaging |
 
 ---
 
 <div align="center">
 
-## 🧠 Currently Learning
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=2200&pause=700&color=DC143C&center=true&vCenter=true&width=650&lines=Python+Programming;Artificial+Intelligence;Machine+Learning;Data+Science;Algorithms+%26+Problem+Solving;Cloud+AI;Software+Development"/>
-
-</div>
-
----
-
-## 🎯 Objectives
-
-```text
-[████████████████████░░] Python
-[██████████████░░░░░░░░] Artificial Intelligence
-[████████████░░░░░░░░░░] Machine Learning
-[██████████░░░░░░░░░░░░] Data Science
-[████████░░░░░░░░░░░░░░] Algorithms
-[██████░░░░░░░░░░░░░░░░] Cloud AI
-```
-
-My long-term goal is to become a capable AI developer who can move from **understanding an idea → designing a system → writing the code → deploying the solution**.
-
----
-
-<div align="center">
-
-## 📊 DEVELOPMENT METRICS
-
-<br>
+## Development Metrics
 
 <img height="180" src="https://github-readme-stats.vercel.app/api?username=Eternal-J29&show_icons=true&theme=dark&bg_color=050505&title_color=DC143C&icon_color=DC143C&text_color=FFFFFF&border_color=300000&rank_icon=github"/>
 
@@ -205,86 +95,38 @@ My long-term goal is to become a capable AI developer who can move from **unders
 
 ---
 
-<div align="center">
-
-## ⚔️ 「 THE SHRINE 」
+## Engineering Principles
 
 ```text
-                         ╔═══════════════╗
-                         ║   KNOWLEDGE   ║
-                         ╚═══════╤═══════╝
-                                 │
-              ┌──────────────────┼──────────────────┐
-              │                  │                  │
-              ▼                  ▼                  ▼
-           PYTHON                AI                 ML
-              │                  │                  │
-              └──────────────────┼──────────────────┘
-                                 │
-                                 ▼
-                         BUILD SYSTEMS
-                                 │
-                                 ▼
-                         SOLVE PROBLEMS
-                                 │
-                                 ▼
-                            EVOLVE
+Understand the system.
+        ↓
+Reduce the problem.
+        ↓
+Build the smallest useful solution.
+        ↓
+Test what breaks.
+        ↓
+Learn from the result.
+        ↓
+Improve the design.
 ```
 
-</div>
+I am not trying to appear finished.
 
----
-
-## 🩸 Learning Philosophy
-
-> **DISMANTLE** — break the problem apart.
-
-> **CLEAVE** — adapt the solution to the problem.
-
-> **FUGA** — turn knowledge into something powerful.
-
-> **EVOLVE** — repeat the process.
+I am building the skills, projects and engineering judgement required to become a strong AI developer.
 
 ---
 
 <div align="center">
-
-## 📈 Contribution Activity
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Eternal-J29&bg_color=050505&color=DC143C&line=8B0000&point=FF2400&area=true&hide_border=false&border_color=300000"/>
-
-</div>
-
----
-
-<div align="center">
-
-## 🧩 GitHub Profile
 
 <img src="https://komarev.com/ghpvc/?username=Eternal-J29&label=PROFILE%20VIEWS&color=8B0000&style=for-the-badge"/>
 
 <br><br>
 
-<img src="https://img.shields.io/github/followers/Eternal-J29?style=for-the-badge&logo=github&label=FOLLOWERS&color=8B0000&labelColor=050505"/>
-
-<img src="https://img.shields.io/github/stars/Eternal-J29?style=for-the-badge&logo=github&label=STARS&color=DC143C&labelColor=050505"/>
-
-</div>
-
----
-
-<div align="center">
-
-# 🩸 「 NO SHORTCUTS 」
-
-### Learn. Build. Break. Understand. Improve.
-
-<br>
-
 **Eternal-J29**
 
 <br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:DC143C,40:8B0000,75:300000,100:050505&height=150&section=footer&animation=fadeIn"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:DC143C,40:8B0000,75:300000,100:050505&height=140&section=footer&animation=fadeIn"/>
 
 </div>
