@@ -1,0 +1,54 @@
+<svg fill="none" width="800" height="250" xmlns="http://w3.org">
+  <foreignObject width="100%" height="100%">
+    <div xmlns="http://w3.org">
+      <style>
+        .banner {
+          font-family: 'Fira Code', 'Courier New', monospace;
+          background: linear-gradient(135deg, #09090e 0%, #170307 100%);
+          border: 2px solid #ff003c;
+          border-radius: 8px;
+          height: 240px;
+          display: flex;
+          flex-direction: column;
+          align-items: center;
+          justify-content: center;
+          position: relative;
+          overflow: hidden;
+          box-shadow: 0 0 20px rgba(255, 0, 60, 0.15);
+          animation: pulseGlow 4s infinite alternate;
+        }
+        .title {
+          color: #ff003c;
+          font-size: 36px;
+          font-weight: 800;
+          letter-spacing: 6px;
+          text-shadow: 0 0 15px rgba(255, 0, 60, 0.6);
+          margin-bottom: 8px;
+        }
+        .subtitle {
+          color: #ffffff;
+          font-size: 13px;
+          letter-spacing: 5px;
+          text-transform: uppercase;
+          opacity: 0.75;
+        }
+        .grid-overlay {
+          position: absolute;
+          top: 0; left: 0; right: 0; bottom: 0;
+          background-image: linear-gradient(rgba(255, 0, 60, 0.03) 1px, transparent 1px),
+                            linear-gradient(90deg, rgba(255, 0, 60, 0.03) 1px, transparent 1px);
+          background-size: 20px 20px;
+        }
+        @keyframes pulseGlow {
+          0% { border-color: #600018; box-shadow: 0 0 15px rgba(96, 0, 24, 0.3); }
+          100% { border-color: #ff003c; box-shadow: 0 0 30px rgba(255, 0, 60, 0.5); }
+        }
+      </style>
+      <div class="banner">
+        <div class="grid-overlay"></div>
+        <div class="title">DEVELOPER PROFILE</div>
+        <div class="subtitle">Engineering Scalable Solutions</div>
+      </div>
+    </div>
+  </foreignObject>
+</svg>
