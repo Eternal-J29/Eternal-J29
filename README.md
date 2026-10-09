@@ -1,14 +1,8 @@
-<p align="center">
-  <img src="https://githubusercontent.com" alt="Banner" width="100%" />
-</p>
+![](https://githubusercontent.com)
 
-<p align="center">
-  <img src="https://demolab.com" alt="Typing Animation" />
-</p>
+![](https://demolab.com)
 
-<p align="center">
-  <img src="https://komarev.com" alt="Profile Views" />
-</p>
+![](https://komarev.com)
 
 ---
 
@@ -27,11 +21,12 @@
 
 ### 📊 Development Metrics
 
-<p align="center">
-  <img src="https://vercel.app" width="48%" alt="Stats" />
-  <img src="https://vercel.app" width="48%" alt="Languages" />
-</p>
+![Stats](https://vercel.app)
 
-<p align="center">
-  <img src="https://herokuapp.com" width="100%" alt="Streak" />
-</p>
+![Languages](https://vercel.app)
+
+---
+
+### 📈 Activity Tracking
+
+![Streak](https://herokuapp.com)
