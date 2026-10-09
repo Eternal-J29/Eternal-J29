@@ -1,58 +1,27 @@
-<svg xmlns="http://w3.org" viewBox="0 0 800 250" width="100%" height="250">
+<svg xmlns="http://w3.org" viewBox="0 0 800 220" width="100%" height="220">
   <defs>
-    <!-- Dark, professional charcoal/crimson gradient backdrop -->
     <linearGradient id="bgGrad" x1="0%" y1="0%" x2="100%" y2="100%">
       <stop offset="0%" stop-color="#09090e" />
-      <stop offset="100%" stop-color="#1c0408" />
+      <stop offset="100%" stop-color="#170306" />
     </linearGradient>
-    
-    <!-- Deep red pulse animation effect -->
     <linearGradient id="glowGrad" x1="0%" y1="0%" x2="100%" y2="0%">
       <stop offset="0%" stop-color="#ff003c" />
       <stop offset="50%" stop-color="#990024" />
       <stop offset="100%" stop-color="#ff003c" />
     </linearGradient>
   </defs>
-
   <style>
-    .title-text {
-      font-family: 'Fira Code', 'Courier New', monospace;
-      font-size: 38px;
-      font-weight: 800;
-      fill: #ff003c;
-      letter-spacing: 6px;
-    }
-    .sub-text {
-      font-family: 'Fira Code', 'Courier New', monospace;
-      font-size: 13px;
-      fill: #ffffff;
-      letter-spacing: 5px;
-      opacity: 0.75;
-    }
-    .grid-lines {
-      stroke: #ff003c;
-      stroke-width: 1;
-      opacity: 0.04;
-    }
-    .border-line {
-      stroke: url(#glowGrad);
-      stroke-width: 3;
-    }
+    .title-text { font-family: 'Fira Code', monospace; font-size: 36px; font-weight: 800; fill: #ff003c; letter-spacing: 6px; }
+    .sub-text { font-family: 'Fira Code', monospace; font-size: 13px; fill: #ffffff; letter-spacing: 5px; opacity: 0.75; }
+    .grid-lines { stroke: #ff003c; stroke-width: 1; opacity: 0.04; }
+    .border-line { stroke: url(#glowGrad); stroke-width: 2; }
   </style>
-
-  <!-- Background Canvas -->
-  <rect width="800" height="250" fill="url(#bgGrad)" />
-
-  <!-- Technical Background Grid Elements -->
+  <rect width="800" height="220" fill="url(#bgGrad)" />
   <g class="grid-lines">
-    <path d="M 0,25 L 800,25 M 0,50 L 800,50 M 0,75 L 800,75 M 0,100 L 800,100 M 0,125 L 800,125 M 0,150 L 800,150 M 0,175 L 800,175 M 0,200 L 800,200 M 0,225 L 800,225" />
-    <path d="M 50,0 L 50,250 M 100,0 L 100,250 M 150,0 L 150,250 M 200,0 L 200,250 M 250,0 L 250,250 M 300,0 L 300,250 M 350,0 L 350,250 M 400,0 L 400,250 M 450,0 L 450,250 M 500,0 L 500,250 M 550,0 L 550,250 M 600,0 L 600,250 M 650,0 L 650,250 M 700,0 L 700,250 M 750,0 L 750,250" />
+    <path d="M 0,25 L 800,25 M 0,50 L 800,50 M 0,75 L 800,75 M 0,100 L 800,100 M 0,125 L 800,125 M 0,150 L 800,150 M 0,175 L 800,175 M 0,200 L 800,200" />
+    <path d="M 50,0 L 50,220 M 100,0 L 100,220 M 150,0 L 150,220 M 200,0 L 200,220 M 250,0 L 250,220 M 300,0 L 300,220 M 350,0 L 350,220 M 400,0 L 400,220 M 450,0 L 450,220 M 500,0 L 500,220 M 550,0 L 550,220 M 600,0 L 600,220 M 650,0 L 650,220 M 700,0 L 700,220 M 750,0 L 750,220" />
   </g>
-
-  <!-- Outer Crimson Border Frame -->
-  <rect x="1.5" y="1.5" width="797" height="247" rx="8" fill="none" class="border-line" />
-
-  <!-- Profile Typography Headings -->
-  <text x="400" y="120" text-anchor="middle" class="title-text">DEVELOPER PROFILE</text>
-  <text x="400" y="160" text-anchor="middle" class="sub-text">ENGINEERING SCALABLE SOLUTIONS</text>
+  <rect x="1" y="1" width="798" height="218" rx="6" fill="none" class="border-line" />
+  <text x="400" y="110" text-anchor="middle" class="title-text">DEVELOPER PROFILE</text>
+  <text x="400" y="150" text-anchor="middle" class="sub-text">ENGINEERING SCALABLE SOLUTIONS</text>
 </svg>
