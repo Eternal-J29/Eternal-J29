@@ -1,32 +1,41 @@
-![](https://githubusercontent.com)
+<p align="center">
+  <img src="https://demolab.com" alt="Professional Header" />
+</p>
 
-![](https://demolab.com)
+<p align="center">
+  <img src="https://demolab.com" alt="Subtitles Loop" />
+</p>
 
-![](https://komarev.com)
+<p align="center">
+  <img src="https://komarev.com" alt="Profile Views" />
+</p>
 
 ---
 
 ### 💻 Technical Expertise
 
 #### 🚀 Core Capabilities
-* ⚡ **Performance Optimization:** Designing high-throughput, low-latency architectures.
-* 🛠️ **Full-Stack Engineering:** Building robust backend APIs and intuitive frontends.
-* 🌐 **Cloud Infrastructure:** Deploying automated CI/CD pipelines and scalable services.
+* ⚡ **Performance Optimization:** Designing high-throughput, low-latency architectures to maximize resource efficiency.
+* 🛠️ **Full-Stack Engineering:** Building robust, highly maintainable backend APIs and responsive frontend applications.
+* 🌐 **Cloud Infrastructure:** Deploying scalable containerized environments and automated integration pipelines.
 
-#### 🎯 Current Focus
-* Scaling microservices and deepening expertise in distributed computing systems.
-* Open to collaborating on open-source projects or enterprise-grade software.
+#### 🎯 Active Focus
+* Refining complex microservice orchestration and enhancing database query transaction speed.
+* Open to collaborating on open-source core utilities or enterprise-grade software tools.
 
 ---
 
 ### 📊 Development Metrics
 
-![Stats](https://vercel.app)
-
-![Languages](https://vercel.app)
+<p align="center">
+  <img src="https://vercel.app" width="48%" alt="GitHub Stats" />
+  <img src="https://vercel.app" width="48%" alt="Top Languages" />
+</p>
 
 ---
 
 ### 📈 Activity Tracking
 
-![Streak](https://herokuapp.com)
+<p align="center">
+  <img src="https://herokuapp.com" width="100%" alt="GitHub Streak" />
+</p>
