@@ -1,12 +1,10 @@
-<!-- HEADER BANNER -->
 <p align="center">
-  <img src="https://githubusercontent.com" alt="Professional Crimson Banner" width="100%" />
+  <img src="https://githubusercontent.com" alt="Banner" width="100%" />
 </p>
 
-<!-- TYPING EFFECT -->
-<h1 align="center">
-  <img src="https://demolab.com" alt="Typing SVG" />
-</h1>
+<p align="center">
+  <img src="https://demolab.com" alt="Typing Animation" />
+</p>
 
 <p align="center">
   <img src="https://komarev.com" alt="Profile Views" />
@@ -30,13 +28,10 @@
 ### 📊 Development Metrics
 
 <p align="center">
-  <img src="https://vercel.app" alt="GitHub Stats" width="48%"/>
-  <img src="https://vercel.app" alt="Top Languages" width="48%" />
+  <img src="https://vercel.app" width="48%" alt="Stats" />
+  <img src="https://vercel.app" width="48%" alt="Languages" />
 </p>
 
----
-
-### 📈 Activity Tracking
 <p align="center">
-  <img src="https://herokuapp.com" alt="GitHub Streak" width="100%" />
+  <img src="https://herokuapp.com" width="100%" alt="Streak" />
 </p>
