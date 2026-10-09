@@ -29,7 +29,6 @@
 
 ### 📊 Development Metrics
 
-<!-- Added fallback options to display placeholders until you make your first project repository commits -->
 <p align="center">
   <img src="https://vercel.app" alt="GitHub Stats" width="48%"/>
   <img src="https://vercel.app" alt="Top Languages" width="48%" />
@@ -39,6 +38,5 @@
 
 ### 📈 Activity Tracking
 <p align="center">
-  <!-- Replaced the activity wave chart with standard grid tracking until your repository historical logs populate -->
   <img src="https://herokuapp.com" alt="GitHub Streak" width="100%" />
 </p>
