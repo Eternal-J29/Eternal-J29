@@ -1,54 +1,58 @@
-<svg fill="none" width="800" height="250" xmlns="http://w3.org">
-  <foreignObject width="100%" height="100%">
-    <div xmlns="http://w3.org">
-      <style>
-        .banner {
-          font-family: 'Fira Code', 'Courier New', monospace;
-          background: linear-gradient(135deg, #09090e 0%, #170307 100%);
-          border: 2px solid #ff003c;
-          border-radius: 8px;
-          height: 240px;
-          display: flex;
-          flex-direction: column;
-          align-items: center;
-          justify-content: center;
-          position: relative;
-          overflow: hidden;
-          box-shadow: 0 0 20px rgba(255, 0, 60, 0.15);
-          animation: pulseGlow 4s infinite alternate;
-        }
-        .title {
-          color: #ff003c;
-          font-size: 36px;
-          font-weight: 800;
-          letter-spacing: 6px;
-          text-shadow: 0 0 15px rgba(255, 0, 60, 0.6);
-          margin-bottom: 8px;
-        }
-        .subtitle {
-          color: #ffffff;
-          font-size: 13px;
-          letter-spacing: 5px;
-          text-transform: uppercase;
-          opacity: 0.75;
-        }
-        .grid-overlay {
-          position: absolute;
-          top: 0; left: 0; right: 0; bottom: 0;
-          background-image: linear-gradient(rgba(255, 0, 60, 0.03) 1px, transparent 1px),
-                            linear-gradient(90deg, rgba(255, 0, 60, 0.03) 1px, transparent 1px);
-          background-size: 20px 20px;
-        }
-        @keyframes pulseGlow {
-          0% { border-color: #600018; box-shadow: 0 0 15px rgba(96, 0, 24, 0.3); }
-          100% { border-color: #ff003c; box-shadow: 0 0 30px rgba(255, 0, 60, 0.5); }
-        }
-      </style>
-      <div class="banner">
-        <div class="grid-overlay"></div>
-        <div class="title">DEVELOPER PROFILE</div>
-        <div class="subtitle">Engineering Scalable Solutions</div>
-      </div>
-    </div>
-  </foreignObject>
+<svg xmlns="http://w3.org" viewBox="0 0 800 250" width="100%" height="250">
+  <defs>
+    <!-- Dark, professional charcoal/crimson gradient backdrop -->
+    <linearGradient id="bgGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#09090e" />
+      <stop offset="100%" stop-color="#1c0408" />
+    </linearGradient>
+    
+    <!-- Deep red pulse animation effect -->
+    <linearGradient id="glowGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#ff003c" />
+      <stop offset="50%" stop-color="#990024" />
+      <stop offset="100%" stop-color="#ff003c" />
+    </linearGradient>
+  </defs>
+
+  <style>
+    .title-text {
+      font-family: 'Fira Code', 'Courier New', monospace;
+      font-size: 38px;
+      font-weight: 800;
+      fill: #ff003c;
+      letter-spacing: 6px;
+    }
+    .sub-text {
+      font-family: 'Fira Code', 'Courier New', monospace;
+      font-size: 13px;
+      fill: #ffffff;
+      letter-spacing: 5px;
+      opacity: 0.75;
+    }
+    .grid-lines {
+      stroke: #ff003c;
+      stroke-width: 1;
+      opacity: 0.04;
+    }
+    .border-line {
+      stroke: url(#glowGrad);
+      stroke-width: 3;
+    }
+  </style>
+
+  <!-- Background Canvas -->
+  <rect width="800" height="250" fill="url(#bgGrad)" />
+
+  <!-- Technical Background Grid Elements -->
+  <g class="grid-lines">
+    <path d="M 0,25 L 800,25 M 0,50 L 800,50 M 0,75 L 800,75 M 0,100 L 800,100 M 0,125 L 800,125 M 0,150 L 800,150 M 0,175 L 800,175 M 0,200 L 800,200 M 0,225 L 800,225" />
+    <path d="M 50,0 L 50,250 M 100,0 L 100,250 M 150,0 L 150,250 M 200,0 L 200,250 M 250,0 L 250,250 M 300,0 L 300,250 M 350,0 L 350,250 M 400,0 L 400,250 M 450,0 L 450,250 M 500,0 L 500,250 M 550,0 L 550,250 M 600,0 L 600,250 M 650,0 L 650,250 M 700,0 L 700,250 M 750,0 L 750,250" />
+  </g>
+
+  <!-- Outer Crimson Border Frame -->
+  <rect x="1.5" y="1.5" width="797" height="247" rx="8" fill="none" class="border-line" />
+
+  <!-- Profile Typography Headings -->
+  <text x="400" y="120" text-anchor="middle" class="title-text">DEVELOPER PROFILE</text>
+  <text x="400" y="160" text-anchor="middle" class="sub-text">ENGINEERING SCALABLE SOLUTIONS</text>
 </svg>
